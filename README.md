@@ -277,9 +277,9 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 **Omar** - Aspiring Software Engineer & AI Researcher
 
-- 🔗 LinkedIn: [linkedin.com/in/omar](https://linkedin.com/in/omar)
-- 💻 GitHub: [github.com/omar](https://github.com/omar)
-- 📧 Email: omar@example.com
+- 🔗 LinkedIn: [linkedin.com/in/omar](https://www.linkedin.com/in/omar-ahmed-7b97613b1/)
+- 💻 GitHub: [github.com/omar](https://github.com/omarahameds2010-lab)
+- 📧 Email: omarahameds2010@gmail.com
 
 ---
 
