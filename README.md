@@ -301,7 +301,7 @@ If you use this work in your research, please cite:
   author = {Omar},
   title = {Ultra-Efficient Semantic Communication AI},
   year = {2025},
-  url = {https://github.com/yourusername/semantic-communication-ai}
+  url = {https://github.com/omarahameds2010-lab/Ultra-Efficient-Semantic-Communication}
 }
 ```
 
